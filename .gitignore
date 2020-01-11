@@ -1,0 +1,24 @@
+# Eclipse
+.springBeans
+.classpath
+.project
+.settings/
+.factorypath
+/.apt_generated/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+
+# ElasticSearch embedded 
+data/ 
+/target/
+*.*~
+bin/
